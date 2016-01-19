@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 647710d2de1ac465cbcb45154e85dd8a, type: 3}
+  m_Name: 0001
+  m_EditorClassIdentifier: 
+  identifier: 1
+  useSkillID: 1
+  skillName: "\u30D5\u30A1\u30A4\u30A2\u30D6\u30EC\u30B9"
+  skillInfo: "\u524D\u65B9\u6247\u5F62\u306B{0}\u306E\u708E\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8"
+  parameters:
+    element: 1
+    needTurn: 1
+    durationTurn: 0
+    values:
+    - 9
+    - 2
+    - 130
